@@ -1,0 +1,7 @@
+flask
+streamlit
+pandas
+numpy
+matplotlib
+supabase-py
+dotenv
