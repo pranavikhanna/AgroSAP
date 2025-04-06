@@ -101,10 +101,6 @@ $ python api.py
 
 ---
 
-## Security Notice
-Do NOT commit your `.env` file containing your Supabase credentials. Always use `.gitignore` to exclude secrets.
-
----
 
 ## Contact
 Have feedback or want to collaborate?
